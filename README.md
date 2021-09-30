@@ -9,9 +9,9 @@
 - 🤔 I’m looking for help with Job seeking
 - 💬 Ask me about App Academy!
 - 📫 How to reach me: 
-  - https://www.linkedin.com/in/mike-mordechai-schnall/, 
-  - mmschnall@gmail.com, 
-  - mordes89@gmail.com
+  - [LinkedIn](https://www.linkedin.com/in/mike-mordechai-schnall/, )
+  - [Email1](mmschnall@gmail.com) 
+  - [Email2](mordes89@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You can get your readme on your profile page too!
 
