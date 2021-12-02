@@ -10,8 +10,8 @@
 - 💬 Ask me about App Academy!
 - 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/mike-mordechai-schnall/, )
-  - [mmschnall@gmail.com](https://www.mail.google.com) 
-  - [mordes89@gmail.com](https://www.mail.google.com)
+  - [mmschnall@gmail.com](https://mail.google.com/mail/) 
+  - [mordes89@gmail.com](https://mail.google.com/mail/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You can get your readme on your profile page too!
 
