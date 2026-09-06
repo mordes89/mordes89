@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://mordes89.github.io/Portfolio/"><strong>Explore my portfolio ↗</strong></a>
-  &nbsp;·&nbsp; <a href="https://mordes89.github.io/Portfolio/output/pdf/Mike-Schnall-Resume-A4.pdf">Résumé</a>
+  &nbsp;·&nbsp; <a href="https://mordes89.github.io/Portfolio/output/pdf/Mike-Schnall-Resume-A4.pdf">Resume</a>
   &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/mike-mordechai-schnall/">LinkedIn</a>
   &nbsp;·&nbsp; <a href="mailto:mmschnall@gmail.com">mmschnall@gmail.com</a>
   &nbsp;·&nbsp; <a href="mailto:mordes89@gmail.com">mordes89@gmail.com</a>
