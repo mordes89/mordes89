@@ -1,3 +1,5 @@
+<h2 align="center"><a href="https://mordes89.github.io/Portfolio/">Explore my portfolio ↗</a></h2>
+
 <h1 align="center">Hi, I’m Mike 👋</h1>
 <p align="center"><strong>Engineering with the user in mind.</strong><br>Senior Solutions Engineer · New York City</p>
 
@@ -5,7 +7,8 @@
   <a href="https://mordes89.github.io/Portfolio/"><strong>Explore my portfolio ↗</strong></a>
   &nbsp;·&nbsp; <a href="https://mordes89.github.io/Portfolio/output/pdf/Mike-Schnall-Resume-A4.pdf">Résumé</a>
   &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/mike-mordechai-schnall/">LinkedIn</a>
-  &nbsp;·&nbsp; <a href="mailto:mmschnall@gmail.com">Email</a>
+  &nbsp;·&nbsp; <a href="mailto:mmschnall@gmail.com">mmschnall@gmail.com</a>
+  &nbsp;·&nbsp; <a href="mailto:mordes89@gmail.com">mordes89@gmail.com</a>
 </p>
 
 ---
@@ -14,7 +17,11 @@
 
 I’m a **Senior Solutions Engineer at Informed.IQ**. I work closely with enterprise clients through the full integration process—from understanding their needs and defining requirements to implementation and ongoing optimization—helping them get lasting value from the platform.
 
-My path into software started with a database solution that eliminated manual data entry. Today, I bring that same practical mindset to building tools, connecting systems, and making complex technology easier to use.
+My path into software started with a database solution that eliminated manual data entry. Apparently, my response to repetitive work was to give myself a much more complicated problem until the repetitive work went away. It worked, and I was hooked.
+
+Before software, my background spanned military service and luxury travel operations. These days, I bring that mix of practical problem-solving, an economics background, and technical curiosity to enterprise software. I like understanding how the whole system fits together—and why one small part has decided it would rather not.
+
+I build tools, investigate integration issues, and translate between people who describe the same problem in very different ways. The goal is useful software and a client who feels supported, with fewer meetings about the meeting.
 
 - **Integrations & troubleshooting:** connecting platforms, investigating root causes, and turning requirements into working solutions.
 - **Software & automation:** building applications and scripts that simplify work and reduce manual effort.
@@ -45,6 +52,8 @@ My path into software started with a database solution that eliminated manual da
 </p>
 
 ### AI tools
+
+More tools in the workshop. I still have to explain what I want—and read what comes back.
 
 <p>
 <img src="assets/cursor.svg" alt="Cursor" title="Cursor" width="48" height="48"> &nbsp;
