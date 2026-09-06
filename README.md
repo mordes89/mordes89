@@ -34,6 +34,10 @@ I build tools, investigate integration issues, and translate between people who 
 &nbsp;
 <img alt="Visual Studio Code" width="36" height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 &nbsp;
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" title="Python" width="36" height="36"></a>
+&nbsp;
+<a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS" title="Amazon Web Services" width="36" height="36"></a>
+&nbsp;
 <img alt="JavaScript" width="36" height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 &nbsp;
 <img alt="React" width="36" height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
