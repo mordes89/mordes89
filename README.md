@@ -1,10 +1,10 @@
-<h2 align="center"><a href="https://mordes89.github.io/Mike-Schnall-portfolio/">Explore my portfolio ↗</a></h2>
+<h2 align="center"><a href="https://mordes89.github.io/Mike-Schnall-portfolio/">Mike’s portfolio website ↗</a></h2>
 
 <h1 align="center">Hi, I’m Mike 👋</h1>
 <p align="center"><strong>Engineering with the user in mind.</strong><br>Senior Solutions Engineer · New York City</p>
 
 <p align="center">
-  <a href="https://mordes89.github.io/Mike-Schnall-portfolio/"><strong>Explore my portfolio ↗</strong></a>
+  <a href="https://mordes89.github.io/Mike-Schnall-portfolio/"><strong>Mike’s portfolio website ↗</strong></a>
   &nbsp;·&nbsp; <a href="https://mordes89.github.io/Mike-Schnall-portfolio/output/pdf/Mike-Schnall-Resume-A4.pdf">Resume</a>
   &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/mike-mordechai-schnall/">LinkedIn</a>
   &nbsp;·&nbsp; <a href="mailto:mmschnall@gmail.com">mmschnall@gmail.com</a>
@@ -55,4 +55,4 @@ I build tools, investigate integration issues, and translate between people who 
 
 ---
 
-**Want the fuller story?** [Visit my portfolio](https://mordes89.github.io/Mike-Schnall-portfolio/) for my experience, background, and the first game I built at App Academy—complete with voiceover by yours truly.
+**Want the fuller story?** [Mike’s portfolio website](https://mordes89.github.io/Mike-Schnall-portfolio/) for my experience, background, and the first game I built at App Academy—complete with voiceover by yours truly.
